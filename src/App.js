@@ -29,7 +29,7 @@ export default class App extends Component {
         <LoadingBar color='#f11946'progress={this.state.progress}/>
           <Routes>
             <Route exact path="/" element={<News setProgress = {this.setProgress} apiKey = {this.apiKey} key="General" pageSize={pageSize} country="in" category="General"/>}></Route>
-            <Route exact path="/NewsApplication" element={<News setProgress = {this.setProgress} apiKey = {this.apiKey} key="General" pageSize={pageSize} country="in" category="General"/>}></Route>
+            <Route exact path="/react-news-app" element={<News setProgress = {this.setProgress} apiKey = {this.apiKey} key="General" pageSize={pageSize} country="in" category="General"/>}></Route>
             <Route exact path="/Entertainment"  element={<News setProgress = {this.setProgress} apiKey = {this.apiKey} key="Entertainment" pageSize={pageSize} country="in" category="Entertainment"/>}></Route>
             <Route exact path="/Sports" element={<News setProgress = {this.setProgress} apiKey = {this.apiKey} key="Sports" pageSize={pageSize} country="in" category="Sports"/>}></Route>
             <Route exact path="/Science" element={<News setProgress = {this.setProgress} apiKey = {this.apiKey} key="science" pageSize={pageSize} country="in" category="Science"/>}></Route>
