@@ -1,0 +1,9 @@
+<Route path="/Entertainment"><News pageSize={5} country="in" category="General"/></Route>
+<Route path="/General"><News pageSize={5} country="in" category="General"/></Route>
+<Route path="/Sports"><News pageSize={5} country="in" category="General"/></Route>
+<Route path="/Gaming"><News pageSize={5} country="in" category="General"/></Route>
+<Route path="/International"><News pageSize={5} country="in" category="General"/></Route>
+<Route path="/About Us"><News pageSize={5} country="in" category="General"/></Route>
+
+
+<Route path="/about"><News pageSize={5} country="in" category="General"/></Route>

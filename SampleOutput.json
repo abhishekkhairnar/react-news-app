@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 247,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "Jay Bonggolto",
+      "title": "Google and Apple may face UK probe over their dominance in mobile browsers",
+      "description": "The UK Competition and Markets Authority (CMA) intends to investigate Google and Apple's \"duopoly\" on mobile browsers, as well as Apple's cloud gaming restrictions.",
+      "url": "https://www.androidcentral.com/apps-software/google-and-apple-may-face-uk-probe-over-their-dominance-in-mobile-browsers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/K8Ac4X4cRe3hvcrhdfULb-1200-80.jpg",
+      "publishedAt": "2022-06-14T02:45:35Z",
+      "content": "<ul><li>The UK's competition watchdog plans to open an investigation into Google and Apple's dominance in mobile browsers.</li><li>Without regulatory intervention, the Competition and Markets Authori… [+3148 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Marketing Dive" },
+      "author": "Robert Williams",
+      "title": "Survey: iPhone owners spend more, have higher incomes than Android users",
+      "description": "IPhone owners are generally happier than Android users and spend more on consumer goods.",
+      "url": "https://www.marketingdive.com/news/survey-iphone-owners-spend-more-have-higher-incomes-than-android-users/541008/",
+      "urlToImage": "https://www.marketingdive.com/imgproxy/O8COpa6nti3DUt1hA4V15BByEIUGQLk6AKBRQp6OEDM/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2lQaG9uZVhTLmpwZw.jpg",
+      "publishedAt": "2022-06-14T02:38:04Z",
+      "content": "Brief:\r\n<ul><li>IPhone owners tend to have higher incomes and spend more on technology than Android users do, according to a survey by crowdsourced shopping platform Slickdeals. Those who use iPhones… [+2591 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Filipe Espósito",
+      "title": "Telegram founder criticizes Apple for intentionally limiting web app features in iOS",
+      "description": "Telegram founder Pavel Durov has again criticized Apple on his public channel on the platform. This time, Durov claimed that Apple limits what web developers can do in iOS by intentionally restricting web app features – which certainly impacts the web version…",
+      "url": "https://9to5mac.com/2022/06/13/telegram-criticizes-apple-limiting-web-app/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/Telegram-web-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-14T01:36:31Z",
+      "content": "Telegram founder Pavel Durov has again criticized Apple on his public channel on the platform. This time, Durov claimed that Apple limits what web developers can do in iOS by intentionally restrictin… [+2647 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Chance Miller",
+      "title": "Craig Federighi promises Stage Manager improvements with upcoming iPadOS 16 betas",
+      "description": "iPadOS 16 brings one of the biggest upgrades to iPad multitasking ever thanks to the new Stage Manager feature. So far, Stage Manager on iPad has been met with mixed opinions and criticism for Apple’s decision to limit it only to the newest M1 iPad Air and iP…",
+      "url": "https://9to5mac.com/2022/06/13/stage-manager-ipad-beta/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/stage-manager-beta-ipad.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-14T03:40:20Z",
+      "content": "iPadOS 16 brings one of the biggest upgrades to iPad multitasking ever thanks to the new Stage Manager feature. So far, Stage Manager on iPad has been met with mixed opinions and criticism for Apple’… [+3169 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.jp" },
+      "author": "そうこ",
+      "title": "先週のWWDC、あえて言うならここがガッカリ",
+      "description": "今年のWWDC開催から約1週間。今年はオンライン配信に加え、現地はフェス感たっぷりの屋外開催で楽しそうでしたね。Passkeysやロック画面のカスタマイズ、iPhoneをMacのウェブカメラにできる、などのソフト面の発表はもちろん、ハードウェアの発表も多くて個人的には大満足の内容でした。でも、人間って欲深い生き物だからなぁ。あえて言いいます、WWDC 2022はここがガッカリした！",
+      "url": "https://www.gizmodo.jp/2022/06/wwdc22-disapointment.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/13/220613wwdc22disappointments-w960.jpg",
+      "publishedAt": "2022-06-14T04:00:00Z",
+      "content": "WWDC1PasskeysiPhoneMacWWDC 2022\r\nAR\r\nImage: Ian / Twitter\r\nARCEOARWWDCARrealityOS\r\niOSmacOSiPadOS3DLive TextAR\r\nMacBook Air\r\nPhoto: Phillip Tracy/Gizmodo\r\niMacAir\r\ntvOS\r\nImage: Apple\r\nWWDCtvOS16WWDCt… [+481 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.jp" },
+      "author": "塚本直樹",
+      "title": "アップルのエコシステムがさらに進化! MacからOSまで動画でまとめ #WWDC22",
+      "description": "Image:ギズモード・ジャパンまず一言、ヤバかった。先週開催された、Apple（アップル）の開発者イベントこと「WWDC22」。さまざまなサービスや製品を組み合わせてさらに便利になる「アップルのエコシステム」が、今年もガッツリ強化されていました。ここではギズモード編集部のリチャードとともに、WWDC22をまず1分まとめから復習してみましょう！ハードウェアの連携力がアップまずはイベントの中心となっ",
+      "url": "https://www.gizmodo.jp/2022/06/wwdc-video-summary.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/13/maxresdefault-w960.jpeg",
+      "publishedAt": "2022-06-14T01:00:00Z",
+      "content": "AppleWWDC22\r\nWWDC221\r\nMacBook AirM2M2 MacBook Pro\r\niOS 16Apple WatchMaciPhoneMacPassKeys\r\niPad ProiPadOS 16macOSiPad\r\nWWDC22\r\n / YouTube"
+    },
+    {
+      "source": { "id": null, "name": "Golem.de" },
+      "author": "Ingo Pakalski",
+      "title": "Apple TV+: Erste Staffel von For All Mankind ist eine Woche kostenlos",
+      "description": "Parallel zum Start der dritten Staffel der Dramaserie For All Mankind gibt es die erste Staffel für kurze Zeit kostenfrei auf Apple TV+. (Apple TV+, Apple)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fapple-tv-erste-staffel-von-for-all-mankind-eine-woche-kostenlos-2206-166099-rss.html&referer=https%3A%2F%2Ft.co%2F4d315e7aed",
+      "urlToImage": null,
+      "publishedAt": "2022-06-14T05:56:02Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Dpreview.com" },
+      "author": "Gannon Burgett",
+      "title": "Sony brings 8K 4:2:2 10-bit video, lossless compressed Raw stills to its flagship a1 camera via firmware update",
+      "description": "<table>\n\n<tr>\n<td></td>\n</tr>\n\r\n\n</table>\nSony has announced a pair of firmware updates for its a1 and a7S III mirrorless camera systems, bringing new and improved shooting modes to its two of its newest cameras.\nFirmware version 1.3 for Sony a1\n<table>\n\n<tr>…",
+      "url": "https://www.dpreview.com/news/2770089925/sony-8k-4-2-2-10-bit-video-lossless-compressed-raw-stills-a1-camera-firmware",
+      "urlToImage": "https://3.img-dpreview.com/files/p/E~TS940x788~articles/2770089925/2291557986.jpeg",
+      "publishedAt": "2022-06-14T04:00:00Z",
+      "content": "In addition to the new stills and video capture modes for the a1, Sony has also released a minor firmware update for its a7S III full-frame mirrorless camera.\r\nOskar Barnack's personal Leica 0-Series… [+5649 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "RPB",
+      "title": "iPadOS 16 rend l’iPad compatible avec beaucoup plus de périphériques",
+      "description": "iPadOS 16 permet pour la première fois aux fabricants de périphériques de proposer leurs propres drivers pour iPad, grâce à l'API DriverKit.",
+      "url": "https://www.presse-citron.net/ipados-16-rend-lipad-compatible-avec-beaucoup-plus-de-peripheriques/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/06/ipadOS-moniteurs-2022.jpg",
+      "publishedAt": "2022-06-14T06:00:55Z",
+      "content": "C’est en soit une petite révolution. Depuis que certains iPad bénéficient d’une puce M1 et d’un port USB type C, il devient possible d’utiliser un petit nombre de périphériques sur iPad exactement co… [+2045 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "RPB",
+      "title": "Piratage Android : pourquoi la sécurité de 35% des mobiles menace de s’envoler",
+      "description": "Bitdefender déplore la faible durée de prise en charge des mises à jour de sécurité dans les smartphones Android. Dès septembre 2022 plus d'un tiers des smartphones dans le monde seront en effet à la merci des pirates.",
+      "url": "https://www.presse-citron.net/piratage-android-pourquoi-la-securite-de-35-des-mobiles-menace-de-senvoler/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/01/android-malware.jpg",
+      "publishedAt": "2022-06-14T05:30:46Z",
+      "content": "Les smartphones Android représentent 70% de parts de marché dans le mode, ce qui ne les empêche pas de pêcher du côté de la sécurité. Comme le souligne Bitdefender dans un article de blog, la fragmen… [+3580 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Geoffroy Husson",
+      "title": "Xiaomi Smart Band 7 : voilà le prix contenu auquel on attend le bracelet connecté en France",
+      "description": "Présenté le mois dernier en Chine, le Xiaomi Smart Band 6 se fait encore attendre en France. Le leaker SnoopyTech a cependant partagé le prix auquel est attendu le bracelet connecté en Europe. Fin mai, Xiaomi présentait en Chine son dernier bracelet connecté …",
+      "url": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/bracelets-connectes/1366029_xiaomi-smart-band-7-voila-le-prix-contenu-auquel-on-attend-le-bracelet-connecte-en-france",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/05/xiaomi-mi-band-7.jpg",
+      "publishedAt": "2022-06-14T06:03:34Z",
+      "content": "Présenté le mois dernier en Chine, le Xiaomi Smart Band 6 se fait encore attendre en France. Le leaker SnoopyTech a cependant partagé le prix auquel est attendu le bracelet connecté en Europe. \r\nLe X… [+2836 chars]"
+    },
+    {
+      "source": { "id": "lenta", "name": "Lenta" },
+      "author": "Марина Совина",
+      "title": "Дуров упрекнул Apple в намеренном ухудшении качества веб-версий приложений",
+      "description": "Российский миллионер и основатель мессенджера Telegram Павел Дуров упрекнул Apple в намеренном ухудшении качества веб-версий приложений для роста их загрузок в App Store, за которые компания получает комиссию. Он отметил, что компания сознательно ограничивает…",
+      "url": "https://lenta.ru/news/2022/06/14/durov_apple/",
+      "urlToImage": "https://icdn.lenta.ru/images/2022/06/14/06/20220614063101301/share_65d138ce5c6293eaf2877340a4c52872.jpg",
+      "publishedAt": "2022-06-14T03:56:04Z",
+      "content": "Telegram Apple - App Store, . Telegram-.\r\n« , Apple -, , Apple 30 », , , Telegram Web iOS.\r\n , -. Safari, Apple.\r\n , (CMA). , , .\r\n, Telegram . Telegram Premium, , ."
+    },
+    {
+      "source": { "id": null, "name": "Srad.jp" },
+      "author": "nagazou",
+      "title": "オランダ政府、デーティングアプリの支払いシステムに関して Apple が不当な条件を解消したと判断",
+      "description": "headless 曰く、オランダの消費者・市場庁 (ACM) は 11 日、オランダのデーティングアプリによる支払いシステム選択について Apple が不当な条件を解消したとの判断を示した\n(ニュースリリース)。\n\nACM は昨年 12 月、デーティングアプリが Apple のアプリ内購入 (IAP) 以外の方法で課金できないことを不当な条件だとして、これを解消するよう Apple に命じた。Apple は命令に従うと発表しつつ、支払いシステムの変更を困難にする条件を提示し、週 500 万ユーロの制裁金支払いを命…",
+      "url": "https://apple.srad.jp/story/22/06/13/1523233/",
+      "urlToImage": "https://srad.jp/static/topics/eu_64.png",
+      "publishedAt": "2022-06-14T06:02:00Z",
+      "content": "(ACM) 11 Apple \r\n()\r\nACM 12 Apple (IAP) Apple Apple 500 Apple 5,000 \r\nApple ACM 10 ACM"
+    },
+    {
+      "source": { "id": null, "name": "Cnbeta.com" },
+      "author": "teikaei",
+      "title": "乔布斯签名的9.18美元古董苹果支票有望拍出2.5万多美元的价格",
+      "description": "三件罕见的苹果物品已被拍卖，其中包括一份史蒂夫·乔布斯亲笔签名的《时代周刊》封面、一个功能性的Apple-1以及一张复古的苹果支票。又有一批苹果收藏品被拍卖，这次则是总部设在波士顿的RR拍卖公司的Remarkable Rarities系列的一部分。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1280447.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2022/06/554fc462d51256c.jpg",
+      "publishedAt": "2022-06-14T00:27:48Z",
+      "content": "Apple Computer Company1976723--\r\n770 Welch Rd., Ste. 154, Palo Alto--PSA/DNA\r\n25,000\r\nApple-1·\r\nRoger WagnerApple-112\r\nWagnerApple II\r\n:\r\nApple-1·\"01-0068\";\r\nApple Card(ACI)\r\nApple IIApple-1\r\nApple-1… [+170 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cnbeta.com" },
+      "author": "study875",
+      "title": "[视频]iPhone 14机模上手对比",
+      "description": "在 iPhone 14 系列正式发布之前，配件厂商往往会根据目前泄漏的 CAD 草图和其他规格创建机模。国外科技媒体 MacRumors 近期就收到了来自配件厂商的一组 iPhone 14 机模。通常情况下配件厂商准备量产外壳需要大量的支出，因此机模通常情况下会比较准确。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1280489.htm",
+      "urlToImage": "https://www.cnbeta.com//player.bilibili.com/player.html?bvid=BV18L4y1N74e&page=1\" width=\"750\" height=\"480\" frameborder=\"0\"></iframe></p><p style=\"text-align: left;\">在设计方面，‌<a data-link=\"1\" href=\"https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F\" target=\"_blank\">iPhone</a> 14‌ 型号看起来很像 iPhone 13 型号，但有一个明显的例外 - 不会有 ‌iPhone 14‌ mini。相反，Apple 正在生产两款 6.1 英寸 iPhone（‌iPhone 14‌ 和 iPhone 14 Pro），以及两款 6.7 英寸 iPhone（‌iPhone 14‌ Max 和‌iPhone 14 Pro‌ Max）。</p><p style=\"text-align:center\"><img src=\"https://static.cnbetacdn.com/article/2022/0614/cb967a3e82e27a6.webp",
+      "publishedAt": "2022-06-14T01:48:38Z",
+      "content": "iPhone 14 iPhone 13 - iPhone 14 miniApple 6.1 iPhoneiPhone 14 iPhone 14 Pro 6.7 iPhoneiPhone 14 Max iPhone 14 Pro Max\r\nPro Face ID iPhone 14 \r\niPhone 14 Pro \r\nPro Apple 4800 iPhone 14 iPhone 14 \r\nApp… [+67 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cnbeta.com" },
+      "author": "study875",
+      "title": "英国监管机构正审查Apple/Google的移动浏览器和云游戏策略",
+      "description": "因禁止运行云游戏服务，并要求所有 iOS 浏览器使用 WebKit 引擎，苹果遭到了很多用户和开发者的批评。但现在英国的反垄断机构正在审查这些政策，采用相似支付策略的 Google Play Store 也在本次审查中。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1280569.htm",
+      "urlToImage": "https://static.cnbetacdn.com/thumb/article/2022/0614/89274e76dc49d9c.jpg",
+      "publishedAt": "2022-06-14T05:51:07Z",
+      "content": "(CMA) CMA Google \r\nCMA 2021 97% Apple WebKit Google Chromium iOS WebKitCMA Web \r\nCMA iOS Facebook Google \r\nApple Netflix Spotify \r\nCMA iOS Google Play Store Google Epic Bandcamp"
+    },
+    {
+      "source": { "id": null, "name": "Cnbeta.com" },
+      "author": "ugmbbc",
+      "title": "“先买后付”面临大考：融资困难利润遭挤压 “果呗”强势来袭",
+      "description": "在上周的WWDC22上，苹果公司宣布进入了拥挤的“先买后付”（Buy Now Pay Later，BNPL）领域，给业界的金融科技企业带来压力。苹果宣称，计划推出“Apple Pay Later”贷款服务，扩大已经包括移动支付和信用卡在内的一系列金融服务产品。这项服务外号“苹果版花呗”，将允许用户分四期免息付款。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1280461.htm",
+      "urlToImage": "https://static.cnbetacdn.com/thumb/article/2022/0607/b46cb06fdbec189.jpg",
+      "publishedAt": "2022-06-14T01:18:52Z",
+      "content": "Apple Financing Inc\r\n2iPhonePayPalAffirmKlarnaBNPLAffirm17%\r\nBNPLKlarna10%\r\nBNPL\r\nGlobalDataBNPL202112002019330\r\nBNPLBNPL\r\nBNPL\r\nBNPLGlobalData1002BNPL\r\nBNPL451 Research100BNPL\r\nBNPLBNPLFirm Holdings… [+288 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cnbeta.com" },
+      "author": "raymon725",
+      "title": "一台史蒂夫·沃兹尼亚克签名版Apple I在修复后拍出34万美元",
+      "description": "一台原产于 1976 年的 Apple-1 计算机，在经过功能修复后，于 5 月 31 日开启了挂牌拍卖。虽然我们早已对此类古董物件的拍卖新闻感到麻木，但这台 Apple-1 的一个亮点，就是带有苹果联合创始人之一的史蒂夫·沃茨尼亚克（Steve Wozniak）的签名。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1280517.htm",
+      "urlToImage": "https://static.cnbetacdn.com/thumb/article/2022/0614/8a9fe96f23a2aa8.jpg",
+      "publishedAt": "2022-06-14T02:15:02Z",
+      "content": "via Apple Insider\r\n6 12 112 34.01 \r\n Apple-1 6502 \r\nAPPL Collection \r\n 1976 Apple-1 NTI 1977 TI IC \r\nThe Schlumberger 2 Apple-1 Computer _ Signed by Wozvia\r\n 2021 \r\n 45 34.01 \r\n Apple-1 45 8711 \r\n 73… [+4 chars]"
+    },
+    {
+      "source": { "id": null, "name": "01net.com" },
+      "author": "Pierre FONTAINE",
+      "title": "Apple pourrait dépasser le stade de la réalité virtuelle avec un nouveau produit en 2024",
+      "description": "A en croire un analyste asiatique, Apple serait déjà en train de préparer la deuxième génération de son casque de réalité virtuelle – dont la première mouture n’est pas encore officialisée. Ce masque de VR pourrait sortir en même temps que les Apple Glass, lu…",
+      "url": "https://www.01net.com/actualites/apple-pourrait-depasser-le-stade-de-la-realite-virtuelle-avec-un-nouveau-produit-en-2024.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2022/06/Apple-Glass.jpg",
+      "publishedAt": "2022-06-14T05:56:46Z",
+      "content": "A en croire un analyste asiatique, Apple serait déjà en train de préparer la deuxième génération de son casque de réalité virtuelle dont la première mouture nest pas encore officialisée. Ce masque de… [+3010 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Itmedia.co.jp" },
+      "author": "MACお宝鑑定団",
+      "title": "Appleの機械学習モデル、Apple TVへ　tvOS 16で一部利用可能に",
+      "description": "Appleは機械学習モデルに関する「What's new in Create ML」を公開。",
+      "url": "https://www.itmedia.co.jp/news/articles/2206/14/news095.html",
+      "urlToImage": "https://image.itmedia.co.jp/news/articles/2206/14/cover_news095.png",
+      "publishedAt": "2022-06-14T01:59:00Z",
+      "content": "AppleWWDC22AppWhat's new in Create ML\r\nCreate ML Components\r\nCreate MLiPhone\r\nCreate MLmacOS MojaveiOS 15iPadOS 15Creating a Model from Tabular DatatvOS 16\r\nCreate MLCreate ML Components\r\nCreate ML C… [+112 chars]"
+    }
+  ]
+}
